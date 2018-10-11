@@ -36,3 +36,15 @@ Now that you have your workspace set up, what do you want to try using Git for?
 What happens when you initialize a repository? Why do you need to do it?
 
     add files to start tracking it 
+    
+How can you use the staging area to make sure you have one commit per logical change?
+
+    It can keep the files temporaly
+    
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+    in new versions whit different funcionalities
+    
+How do the diagrams help you visualize the branch structure?
+
+    Its posible to visualize all the structure, very helpfull
